@@ -1,4 +1,4 @@
-package com.github.java.thread;
+package com.github.java.thread.factorial;
 
 import java.math.BigInteger;
 import java.security.InvalidParameterException;

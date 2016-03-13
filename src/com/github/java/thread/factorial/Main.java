@@ -1,4 +1,4 @@
-package com.github.java.thread;
+package com.github.java.thread.factorial;
 
 public class Main {
 public static void main(String[] args){
